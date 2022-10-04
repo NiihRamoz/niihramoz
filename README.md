@@ -13,7 +13,7 @@
   <img align="center" alt="Niih-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
    <img align="center" alt="Niih-HEROKU" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
     <img align="center" alt="Niih-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="right" alt="Niih-pic" height="150" style="border-radius:50px;" src="https://o.remove.bg/downloads/64c7a232-708d-4163-a19e-26e09d54204e/Nicolas-removebg-preview.png">
+  <img align="right" alt="Niih-pic" height="150" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 </div>
   
   ##
